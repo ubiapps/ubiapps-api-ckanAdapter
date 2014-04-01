@@ -1,4 +1,4 @@
 ubiapps-api-ckanAdapter
 =======================
 
-Enables remote management of all webinos-enabled devices
+ubiapps adapter exposing the CKAN data-store
